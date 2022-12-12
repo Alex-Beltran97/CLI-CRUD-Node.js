@@ -12,4 +12,8 @@ This application consist in a CRUD which it was created in Node.js and can be us
 2. Open command terminal
 3. Execute the command line __"npm start"__ from the root file.
 
+## Graphical Descrption:
+
+![Alt text](./assets/example.PNG)
+
 __Thanks for your attention and I hope you like this project. I'll hear any comment about it.__

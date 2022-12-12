@@ -2,9 +2,9 @@
 
 This project was created as excersise from the course of Node.js.
 
-## What tyoe of app is this?
+## What type of app is this?
 
-This application consist in a CRUD which it was created in Node.js and can be used within command terminal and this was created with a dynamic user interface.
+This application consist in a CRUD which it was created in Node.js and it can be used within command terminal and this was created with a dynamic user interface.
 
 ## How can I test this app?
 
